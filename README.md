@@ -1,4 +1,4 @@
-# Jekyll lin theme
+# Tao Liu
 
 A slick minimalist theme for Jekyll built with [lin.css](https://lin-css.netlify.com/).
 
